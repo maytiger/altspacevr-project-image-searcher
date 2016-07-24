@@ -44,6 +44,13 @@ Baside the mandate feature, the app also contains some bonus features.
 	* (5) If you need some hint, click "Hint" while there are still some space left . The correct answer will be given.
 	* (6) User could click the menu item to restart the game.
 
+## Old Screen
+
+- ![Old](https://raw.githubusercontent.com/maytiger/altspacevr-project-image-searcher/master/old.png)
+
+## New Screen (Fix layout issue)
+
+- ![Old](https://raw.githubusercontent.com/maytiger/altspacevr-project-image-searcher/master/new.png)
 
 
 ## Artifact
