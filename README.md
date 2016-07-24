@@ -54,6 +54,6 @@ app/ImageSearcher_New.apk
 
 apk is debug signed and use default proguard obfuscate
 
-E-mail us a link to your Github repo to [projects@altvr.com](mailto:projects@altvr.com). Please include your contact information, and if you haven't submitted it to us already, your resume and cover letter.
+
 
 
